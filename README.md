@@ -43,6 +43,12 @@ CSV files from TrackMate required: _spots.csv and _edges.csv
 - **Stats Table**: `Boss_Summary_Table.csv` with medians & sample sizes
 - **Raw Data**: `Total_Population_Dataset.csv` for custom analysis
 ![Lineage Path Examples #1](example_outputs/Path_0_0_0_0_0_157938_0_0_157938_166295.png)
+![Lineage Plat Example 2](example_outputs/Path_0_0_0_0_0_80429_0_0_80429_87702.png)
+![Size Control](example_outputs/3_Size_Control.png)
+![Cell Area](example_outputs/4d_Cell_Area.png)
+![3point Area](example_outputs/ThreePoint_Area_NoOutliers.png)
+![3point Time](example_outputs/Time_to_Division_NoOutliers.png)
+
 ## Citation
 If you use this pipeline, please cite: [Your Paper/DOI]
 
