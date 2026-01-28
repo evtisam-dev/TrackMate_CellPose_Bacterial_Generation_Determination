@@ -50,7 +50,8 @@ CSV files from TrackMate required: _spots.csv and _edges.csv
 ![3point Time](example_outputs/Time_to_Division_NoOutliers.png)
 
 ## Citation
-If you use this pipeline, please cite: [Your Paper/DOI]
+If you use this pipeline, **please credit me: **
+Joseph A. Villanueva, PhD Orchid ID: 0000-0003-3131-7150
 
 ## License
 MIT License - See LICENSE file
