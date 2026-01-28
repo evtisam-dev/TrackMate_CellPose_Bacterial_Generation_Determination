@@ -19,10 +19,15 @@ Automated analysis pipeline for bacterial cell lineage tracking, morphology quan
 ## Quick Start (No Coding Required!)
 
 ### Option 1: Google Colab (Recommended)
-1. Click the "Open in Colab" badge above
-2. Upload your CSV files when prompted
-3. Click Runtime → Run All
-4. Download results from the `outputs/` folder
+1. Upload your files to Google Drive
+2. Click the "Open in Colab" badge above
+3. Mount Google Drive
+4. Set Parameters to your liking
+5. Click Runtime → Run All
+6. Select folder containing your paired spots.csv and edges.csv using interactive folder selector
+7. Wait for files to process
+8. Visualize by selecting an output folder using the interactive folder selector at the end of the code
+9. Download results from the output folder
 
 ### Option 2: Local Installation
 See [Installation Guide](docs/installation.md)
